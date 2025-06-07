@@ -35,7 +35,7 @@ const Header = () => {
           <Link to="/" className="flex items-center space-x-3 group">
             <div className="relative">
               <img 
-                src="/BearsCorner Logo - Lahiru Rajinda.png" 
+                src="/bears-corner-website/BearsCorner.png" 
                 alt="Bear's Corner Logo" 
                 className="h-12 w-12 transition-all duration-300 group-hover:scale-110 group-hover:rotate-12"
               />

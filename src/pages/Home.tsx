@@ -100,7 +100,7 @@ const Home = () => {
             <div className="relative animate-slide-up">
               <div className="relative">
                 <img 
-                  src="/BearsCorner Logo - Lahiru Rajinda.png" 
+                  src="/bears-corner-website/BearsCorner.png" 
                   alt="Bear's Corner Logo" 
                   className="h-96 w-96 mx-auto animate-float drop-shadow-2xl"
                 />
