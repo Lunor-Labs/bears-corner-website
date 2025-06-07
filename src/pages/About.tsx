@@ -22,30 +22,15 @@ const About = () => {
 
   const team = [
     {
-      name: "Sarah Johnson",
+      name: "Rajinda Rathnayake",
       role: "Founder & Head Ice Cream Maker",
-      image: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
-      description: "Sarah's passion for ice cream began in her grandmother's kitchen and has grown into Bear's Corner's signature flavors."
-    },
-    {
-      name: "Mike Johnson",
-      role: "Chocolate Artisan",
-      image: "https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg",
-      description: "Mike brings years of chocolate-making expertise, creating our exquisite handcrafted chocolate collections."
-    },
-    {
-      name: "Emma Chen",
-      role: "Customer Experience Manager",
-      image: "https://images.pexels.com/photos/1181686/pexels-photo-1181686.jpeg",
-      description: "Emma ensures every visit to Bear's Corner is memorable, leading our commitment to exceptional service."
+      image: "/bears-corner-website/Raji.jpg",
+      description: "Sarah's passion for ice cream began in her grandmother's kitchen and has grown into Bears Corner's signature flavors."
     }
   ];
 
   const milestones = [
-    { year: "2020", title: "Founded", description: "Bear's Corner opened its doors" },
-    { year: "2021", title: "Award Winner", description: "Best Local Ice Cream Shop" },
-    { year: "2022", title: "Expansion", description: "Added artisanal chocolate line" },
-    { year: "2024", title: "Community", description: "10,000+ happy customers served" }
+    { year: "2025", title: "Founded", description: "Bears Corner opened its doors" }
   ];
 
   return (
@@ -60,7 +45,7 @@ const About = () => {
               Our Story
             </div>
             <h1 className="text-5xl lg:text-7xl font-display font-bold text-bear-brown-800 mb-6">
-              About Bear's Corner
+              About Bears Corner
             </h1>
             <p className="text-xl text-bear-brown-600 leading-relaxed">
               A sweet story of passion, quality, and community that began with a simple dream 
@@ -83,7 +68,7 @@ const About = () => {
               </h2>
               <div className="space-y-6 text-lg text-bear-brown-600 leading-relaxed">
                 <p>
-                  Bear's Corner was born from a passion for creating exceptional frozen treats that bring 
+                  Bears Corner was born from a passion for creating exceptional frozen treats that bring 
                   families and friends together. Founded in 2020 by the Johnson family, our journey began 
                   with a simple mission: to craft the finest ice cream and chocolates using only the 
                   highest quality ingredients.
@@ -95,7 +80,7 @@ const About = () => {
                   of pure joy and connection.
                 </p>
                 <p>
-                  Today, Bear's Corner continues to honor traditional ice cream making techniques while 
+                  Today, Bears Corner continues to honor traditional ice cream making techniques while 
                   innovating with exciting new flavors and artisanal chocolates that surprise and 
                   delight our customers every day.
                 </p>
@@ -262,9 +247,9 @@ const About = () => {
                   <div>
                     <h3 className="text-xl font-semibold mb-2">Our Location</h3>
                     <p className="text-bear-tan-200 leading-relaxed">
-                      123 Sweet Street<br />
-                      Dessert District<br />
-                      City, State 12345
+                      Bears Corner Street<br />
+                      Hambantota District<br />
+                      Walasmulla
                     </p>
                   </div>
                 </div>
@@ -303,14 +288,14 @@ const About = () => {
               <h3 className="text-2xl font-display font-bold mb-6">Find Us on the Map</h3>
               <div className="bg-bear-tan-100 rounded-3xl overflow-hidden shadow-xl h-96">
                 <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3024.1234567890123!2d-74.0059413!3d40.7127753!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDQyJzQ2LjAiTiA3NMKwMDAnMjEuNCJX!5e0!3m2!1sen!2sus!4v1234567890123"
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d247.92565363873186!2d80.6973781099066!3d6.156134872121864!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae14ff90b18fbe9%3A0x8f6f6e801cc1cd7b!2sDimuthu%20Bakers!5e0!3m2!1sen!2slk!4v1749280936474!5m2!1sen!2slk"
                   width="100%"
                   height="100%"
                   style={{ border: 0 }}
                   allowFullScreen
                   loading="lazy"
                   referrerPolicy="no-referrer-when-downgrade"
-                  title="Bear's Corner Location"
+                  title="Bears Corner Location"
                 ></iframe>
               </div>
             </div>

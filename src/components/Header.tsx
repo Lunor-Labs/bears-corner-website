@@ -36,7 +36,7 @@ const Header = () => {
             <div className="relative">
               <img 
                 src="/bears-corner-website/BearsCorner.png" 
-                alt="Bear's Corner Logo" 
+                alt="Bears Corner Logo" 
                 className="h-12 w-12 transition-all duration-300 group-hover:scale-110 group-hover:rotate-12"
               />
               <div className="absolute inset-0 bg-bear-gold-400 rounded-full opacity-0 group-hover:opacity-20 transition-opacity duration-300 blur-xl"></div>
@@ -45,7 +45,7 @@ const Header = () => {
               <h1 className={`text-2xl font-display font-bold transition-colors duration-300 ${
                 isScrolled ? 'text-bear-brown-800' : 'text-bear-brown-800'
               }`}>
-                Bear's Corner
+                Bears Corner
               </h1>
               <p className={`text-sm -mt-1 transition-colors duration-300 ${
                 isScrolled ? 'text-bear-brown-600' : 'text-bear-brown-600'

@@ -68,7 +68,7 @@ const Home = () => {
               </div>
               
               <h1 className="text-5xl lg:text-7xl font-display font-bold text-bear-brown-800 mb-6 leading-tight">
-                Bear's Corner
+                Bears Corner
                 <span className="block text-3xl lg:text-4xl text-bear-gold-600 font-normal mt-2">
                   Sweet Moments Await
                 </span>
@@ -101,7 +101,7 @@ const Home = () => {
               <div className="relative">
                 <img 
                   src="/bears-corner-website/BearsCorner.png" 
-                  alt="Bear's Corner Logo" 
+                  alt="Bears Corner Logo" 
                   className="h-96 w-96 mx-auto animate-float drop-shadow-2xl"
                 />
                 <div className="absolute -bottom-6 -right-6 bg-white rounded-3xl p-6 shadow-xl">
@@ -272,7 +272,7 @@ const Home = () => {
               {
                 name: "Mike Chen",
                 role: "Family Dad",
-                comment: "Bear's Corner has become our family's favorite weekend destination. The kids love it and so do we!",
+                comment: "Bears Corner has become our family's favorite weekend destination. The kids love it and so do we!",
                 rating: 5,
                 avatar: "https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg"
               },
@@ -319,7 +319,7 @@ const Home = () => {
         <div className="absolute inset-0 bg-[url('https://images.pexels.com/photos/1352278/pexels-photo-1352278.jpeg')] bg-cover bg-center opacity-10"></div>
         <div className="relative z-10 container mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-4xl lg:text-6xl font-display font-bold mb-6">
-            Visit Bear's Corner Today!
+            Visit Bears Corner Today!
           </h2>
           <p className="text-xl mb-12 max-w-2xl mx-auto opacity-90 leading-relaxed">
             Come experience the magic of our handcrafted ice cream and chocolates. 

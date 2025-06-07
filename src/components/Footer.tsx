@@ -11,11 +11,11 @@ const Footer = () => {
             <div className="flex items-center space-x-3 mb-4">
               <img 
                 src="/BearsCorner.png" 
-                alt="Bear's Corner Logo" 
+                alt="Bears Corner Logo" 
                 className="h-10 w-10"
               />
               <div>
-                <h3 className="text-xl font-display font-bold">Bear's Corner</h3>
+                <h3 className="text-xl font-display font-bold">Bears Corner</h3>
                 <p className="text-bear-tan-200 text-sm">Ice Cream</p>
               </div>
             </div>
@@ -114,7 +114,7 @@ const Footer = () => {
 
         <div className="border-t border-bear-brown-800 mt-8 pt-8 text-center">
           <p className="text-bear-tan-400 text-sm">
-            © 2024 Bear's Corner Ice Cream. All rights reserved. | Made with ❤️ for ice cream lovers
+            © 2024 Bears Corner Ice Cream. All rights reserved. | Made with ❤️ for ice cream lovers
           </p>
         </div>
       </div>

@@ -153,7 +153,7 @@ const Gallery = () => {
           </h1>
           <p className="text-xl text-bear-brown-600 max-w-3xl mx-auto leading-relaxed">
             Take a visual journey through our delicious creations, happy customers, 
-            and behind-the-scenes moments at Bear's Corner.
+            and behind-the-scenes moments at Bears Corner.
           </p>
         </div>
       </section>
@@ -329,7 +329,7 @@ const Gallery = () => {
             Create Your Own Sweet Memories
           </h2>
           <p className="text-xl mb-12 max-w-2xl mx-auto opacity-90 leading-relaxed">
-            Visit Bear's Corner today and become part of our sweet story. 
+            Visit Bears Corner today and become part of our sweet story. 
             Share your moments with us using #BearsCornerSweet!
           </p>
           <div className="flex flex-col sm:flex-row gap-6 justify-center items-center">

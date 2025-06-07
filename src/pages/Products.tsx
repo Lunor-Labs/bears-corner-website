@@ -120,7 +120,7 @@ const Products = () => {
     ],
     'sundaes': [
       {
-        name: "Bear's Special Sundae",
+        name: "Bears Special Sundae",
         description: "Three scoops with hot fudge, whipped cream, and cherry",
         price: "$8.99",
         image: "https://images.pexels.com/photos/1362534/pexels-photo-1362534.jpeg",
